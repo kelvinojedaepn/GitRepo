@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336808213607",
+    "project_id": "adle-3b274",
+    "storage_bucket": "adle-3b274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336808213607:android:e0ef1102389d27b2d2a8c2",
+        "android_client_info": {
+          "package_name": "com.example.amazon_adle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336808213607-f2j71ul6ub9i8sq4em020e217krbbp7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArj_Eg-k3wtAScWFhOzp8h6tgNeLPnv-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336808213607-f2j71ul6ub9i8sq4em020e217krbbp7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

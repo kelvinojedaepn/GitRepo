@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="personalized_text">Condición 4 - Landscape (English)</string>
+    <color name="personalized_color">#1B421D</color>
+    <color name="personalized_background">#F4E694</color>
+</resources>

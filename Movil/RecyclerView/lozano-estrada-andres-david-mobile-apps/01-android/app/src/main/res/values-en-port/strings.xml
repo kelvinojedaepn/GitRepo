@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="personalized_text">Condition 2 - Portrait (English)</string>
+    <color name="personalized_color">#0073FF</color>
+    <color name="personalized_background">#FF9153</color>
+</resources>

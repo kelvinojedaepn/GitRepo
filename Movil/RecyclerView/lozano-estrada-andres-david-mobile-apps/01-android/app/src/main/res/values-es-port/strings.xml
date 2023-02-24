@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="personalized_text">Condición 1 - Portrait (Español)</string>
+    <color name="personalized_color">#FF00FF</color>
+    <color name="personalized_background">#837676</color>
+</resources>

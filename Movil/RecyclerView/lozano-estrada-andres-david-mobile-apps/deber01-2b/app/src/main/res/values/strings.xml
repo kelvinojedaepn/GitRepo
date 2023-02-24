@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">amazon-adle</string>
+    <string name="search_products_by_camera">Search products by camera</string>
+    <string name="back_button">Back button</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="score">Score</string>
+    <string name="us">US$</string>
+    <string name="price">Price</string>
+    <string name="decimalprice">DecimalPrice</string>
+    <string name="resultados">RESULTADOS</string>
+    <string name="oferta_del_d_a">Oferta del día</string>
+    <string name="menos_de_500">Menos de $500</string>
+    <string name="o_m_s">o más</string>
+    <string name="electr_nica">Electrónica</string>
+    <string name="cuatro_estrellas_filtro">cuatro estrellas filtro</string>
+    <string name="filtros">Filtros ᐯ</string>
+    <string name="mejores_ofertas_del_d_a">Mejores ofertas del día</string>
+    <string name="home_button">Home button</string>
+    <string name="user_button">user button</string>
+    <string name="settings_button">settings button</string>
+    <string name="enviar_a_ecuador">Enviar a Ecuador ᐯ</string>
+    <string name="relacionado_con_productos_que_has_visto_ltimamente">Relacionado con productos que has visto últimamente</string>
+    <string name="neque_porro_quisquam_est_qui_dolorem_ipsum_quia_dolor_sit_amet_consectetur_adipisci_velit">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</string>
+    <string name="disponible">Disponible</string>
+    <string name="comparar_con_art_culos_similares">Comparar con artículos similares</string>
+    <string name="guardar_para_m_s_tarde">Guardar para más tarde</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="_1">1</string>
+    <string name="subtotal">Subtotal</string>
+</resources>
